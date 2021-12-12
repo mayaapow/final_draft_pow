@@ -1,0 +1,79 @@
+h1 {
+	font-family: 'Georgia', serif;
+}
+p, .lead {
+	font-family: 'Roboto', sans-serif;
+}
+.alert {
+	width: auto;
+	margin-left: 30px;
+	margin-right: 40px;
+}
+button {
+	margin-top: 0px;
+	margin-bottom: 10px ;
+}
+.jumbotron-fluid {
+	background-color: #00529b;
+}
+.figure-caption {
+	color: gray;
+}
+
+.figure-caption1 {
+	color:  white;
+}
+.fixed-bottom {
+	margin-top: 30px;
+	padding: 3px;
+	text-align: center;
+	background-color: #00529b;
+}
+.toast {
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+.toast:not(.showing) {
+	opacity: 100%;
+}
+small.text-muted {
+	margin-left: 10px;
+}
+button.ml-2.mb-1.close {
+	margin-left: 80px;
+}
+#bottom-chart {
+
+}
+
+#paragraph-2 {
+	margin-left: 15px;
+}
+a {
+	color: maroon;
+}
+
+a:hover {
+	color: darkgoldenrod;
+}
+#center-7 {
+	text-align: center;
+	margin-bottom: 40px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+h4 {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+img {
+	margin-top: 5px;
+}
+.list {
+	border-style: solid;
+	border-color: #878c8f;
+	border-width: 2px;
+}
+#alert {
+	text-align: left;
+}
